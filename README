@@ -1,0 +1,34 @@
+================================================================
+ CCppCMS: High Performance Web Development Framework 
+ Copyright (C) 2011-2012 JohnsonZhu
+================================================================
+
+Please read the following documents with a WWW browser.
+How to install CCppCMS is explained in the specification.
+
+  README         - this file
+  COPYING        - license
+  ChangeLog      - history of enhancement
+  THANKS         - list of contributors
+  doc/index.html - index of documents
+
+Contents of the directory tree is below.
+
+  ./conf/        - conf of CCppCMS 
+  ./depend/      - depend of CCppCMS 
+  ./doc/         - manuals and specifications
+  ./example/     - sample code of tutorial
+  ./src/         - sources of CCppCMS 
+  ./test/        - testcase
+  ./tools/       - tools
+
+
+CCppCMS is released under the terms of the GNU Lesser General
+Public License.  See the file `COPYING' for details.
+
+CCppCMS was written by JohnsonZhu.  You can contact the
+author by e-mail to `ucjohnsonzhu@gmail.com'.
+
+Thanks.
+
+== END OF FILE ==

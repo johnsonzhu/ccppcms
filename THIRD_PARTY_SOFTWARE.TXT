@@ -1,0 +1,40 @@
+ 
+ CppCMS framework uses and embeds some third party software: 
+ 
+ 
+ Embedded Third Party Software: 
+ ------------------------------ 
+ 
+ -  depend/cppcms-1.0.0.tar    - CppCMS is available under Open Source and Commercial Licenses.  
+ -  depend/cppdb-0.3.0.tar.bz2 - The CppDB library, version 0.0.3 and above, is released under Boost Software License 1.0 or The MIT license at your opinion, CppDB version 0.0.2 and below is released under terms of LGPLv3 license. 
+ 
+ Third Party Software Used by CppCMS (not embedded) 
+ --------------------------------------------- 
+ Mandatory build dependencies: 
+ 
+ - CMake - http://www.cmake.org/ 
+ - Python - http://python.org/ 
+ 
+ Mandatory runtime dependencies: 
+ 
+ - Standard C and C++ libraries 
+ - libpcre - http://pcre.org/ 
+ - zlib - http://zlib.net/ 
+ - At least one of the following: 
+   1. ICU - http://icu-project.org/ 
+   2. iconv POSIX API 
+   3. Win32 API 
+  
+ Optional runtime dependencies: 
+ 
+ - GNU-TLS - http://www.gnu.org/software/gnutls/ 
+ - OpenSSL - http://www.openssl.org/ 
+ 
+ Additional independent components that may be 
+ used with CppCMS library (under contrib/ directory): 
+ 
+ - Berkeley DB - BDB session storage 
+ - Sqlite3 - Sqlite3 session storage 
+ - CppDB - CppDB session storage 
+ 
+ 
